@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>병드민 테스트</description>
+      <initValue>'https://testhospital.ddocdoc.com/signin'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병드민 테스트 아이디</description>
+      <initValue>'test1234'</initValue>
+      <name>id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>병드민 테스트 비번</description>
+      <initValue>'test1234!'</initValue>
+      <name>pw</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'[TEST] 테스트자동화병원'</initValue>
+      <name>hopistalname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>타이틀 텍스트</description>
+      <initValue>'테스트공지'</initValue>
+      <name>titletext</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>내용 텍스트</description>
+      <initValue>'테스트공지 명근'</initValue>
+      <name>contentstext</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'테스트내용 수정'</initValue>
+      <name>contentstextedit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'테스트제목 수정'</initValue>
+      <name>titletextedit</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>테스트환경</description>
+      <initValue>'default'</initValue>
+      <name>environment</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
