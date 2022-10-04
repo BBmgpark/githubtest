@@ -26,12 +26,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>타이틀 텍스트</description>
-      <initValue>'테스트공지'</initValue>
+      <initValue>'테스트공지2222'</initValue>
       <name>titletext</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>내용 텍스트</description>
-      <initValue>'테스트공지 명근'</initValue>
+      <initValue>'테스트공지 test'</initValue>
       <name>contentstext</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
